@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=billthebuilder&label=Profile%20views&color=0e75b6&style=flat" alt="billthebuilder" /> </p>
 
-- 👨‍💻 View my portfolio [here](https://billkariri.com)
-
-- 💬 Ask me about **Angular,ReactJs, Nodejs,Spring**
+- 💬 Ask me about **Java,Nodejs,Spring**
 
 - 📄 Know about my experiences [here](https://www.linkedin.com/in/billkariri)
 
